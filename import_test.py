@@ -1,3 +1,5 @@
 def hellow():
     print('hellow')
-"# fgo_kouritugekijyo_test" 
+
+if __name__ == '__main__':
+    hellow()
